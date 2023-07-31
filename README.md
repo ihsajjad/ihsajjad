@@ -1,4 +1,4 @@
-![React Developer](https://i.ibb.co/BPr0hfy/github-banner-1.png)
+
 # Hi there 👋, I am Iftekher Hossen Sajjad
 ### React Developer
 
