@@ -1,5 +1,5 @@
 
-# Hi there 👋, I am Iftekher Hossen Sajjad
+# Hello, I am Iftekher Hossen Sajjad
 ### React Developer
 
 
@@ -15,8 +15,4 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsajjad)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsajjad&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ihsajjad)  
-
-![Profile views](https://gpvc.arturio.dev/ihsajjad) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsajjad&show_icons=true&count_private=true) 
