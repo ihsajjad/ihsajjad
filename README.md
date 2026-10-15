@@ -1,12 +1,87 @@
+# Hi, I'm Sajjad 👋
 
-# Hello, I am a MERN-Stack Developer
+### Full-Stack Developer | Backend Engineering | Problem Solving
 
-I completed my Web Development course in Programming Hero. Through the course, I gained practical skills in HTML, CSS, JavaScript, MERN, and various NPMs. I have also worked on several projects, including building responsive websites and implementing interactive features. These experiences have sharpened my technical abilities and fostered my attention to detail.
+I'm a developer who enjoys building practical software that solves real problems. My primary focus is full-stack web development, with a growing interest in backend engineering, system design, and scalable applications.
 
-Skills: HTML5 || CSS3 || JavaScript (ES6) || TypeScript || React.js || Node.js || Express.js || MongoDB || Tailwind CSS || Bootstrap || Mongoose || Material UI || Firebase || PlayWright || Next.js || JWT || Shadcn UI
+I built **[QuizKutir](https://quizkutir.com)**, an educational platform that helps students access MCQs and practice questions. Working on a real product has given me experience with application architecture, APIs, databases, deployment, and the challenges of serving actual users.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ihsajjad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ih-sajjad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ihsajjad1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ih-sajjad.netlify.app/)  
+I'm also strengthening my computer science fundamentals through **competitive programming**, with a focus on mathematics, algorithms, and problem-solving. I believe in learning concepts deeply and applying them to real projects.
 
-[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=ihsajjad)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Featured Project
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsajjad&show_icons=true&count_private=true) 
+**[QuizKutir](https://quizkutir.com)** — Educational MCQ Platform
+
+- Built a full-stack application for students to practice MCQs.
+- Developed backend APIs and database-driven features.
+- Integrated AI-assisted question extraction into the content workflow.
+- Worked on deployment, performance, and search engine optimization.
+- Focused on building something useful for real users, not just another portfolio project.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- JavaScript (ES6+)
+- TypeScript
+- C
+- C++ (learning)
+
+**Frontend**
+- React.js
+- Next.js
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- shadcn/ui
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Mongoose
+- Firebase
+- JWT Authentication
+
+**Tools & Technologies**
+- Git & GitHub
+- Playwright
+- Vercel
+- Google Gemini API
+
+### 📚 Currently Learning
+
+- C++ and competitive programming
+- Data structures and algorithms
+- Mathematics and computer science fundamentals
+- Backend engineering and system design
+
+### 💻 Competitive Programming
+
+- ⭐ **CodeChef:** 2★ Coder
+- Actively improving problem-solving skills through competitive programming.
+- Currently focusing on C++, mathematics, algorithms, and computer science fundamentals.
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+### 🎯 My Goals
+
+- Build reliable, production-ready backend systems.
+- Improve my problem-solving and algorithmic thinking.
+- Develop and maintain useful real-world applications.
+- Grow into a strong software engineer with solid CS fundamentals.
+
+### 🤝 Connect With Me
+
+[GitHub](https://github.com/ihsajjad) · [LinkedIn](https://www.linkedin.com/in/ih-sajjad/) · [Twitter / X](https://twitter.com/ihsajjad1) · [Portfolio](https://ih-sajjad.netlify.app/)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihsajjad&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsajjad&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*Always learning. Always building. Focused on getting better every day.*
