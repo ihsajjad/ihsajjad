@@ -1,6 +1,6 @@
 # Hi, I'm Sajjad 👋
 
-### Full-Stack Developer | Backend Engineering | Problem Solving
+### Full-Stack Developer | Backend Developer | Problem Solving
 
 I'm a developer who enjoys building practical software that solves real problems. My primary focus is full-stack web development, with a growing interest in backend engineering, system design, and scalable applications.
 
